@@ -1,0 +1,7 @@
+sending request to server with ajax
+ var request = new XMLHttpRequest();     declare var
+ request.open("GET", "URL");        opening data in request and url means requuired data
+ request.send();        to send the request 
+
+ to get dat no need pass parameter in send but to post we need to pass parameter in send
+ jquery, is framework for ajax & fetch api to used
